@@ -10,7 +10,8 @@
   "dependencies": {
     "next": "latest",
     "react": "^17.0.1",
-    "react-dom": "^17.0.1"
+    "react-dom": "^17.0.1",
+    "css-reset": "latest"
   },
   "devDependencies": {
     "@types/node": "^12.12.21",
